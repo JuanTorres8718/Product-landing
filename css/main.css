@@ -54,7 +54,7 @@ body{
     padding: 7px;
 }
 
-#section-subscribe button{
+#section-subscribe #submit{
     width: 21vw;
     height: 5vh;
     border-radius: 5px;
